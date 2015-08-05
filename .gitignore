@@ -1,0 +1,12 @@
+*.o
+ccsds_tab.c
+ccsds_tal.c
+config.h
+config.log
+config.status
+gen_ccsds
+gen_ccsds_tal
+libfec.a
+libfec.so
+makefile
+*.swp
